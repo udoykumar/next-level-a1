@@ -1,13 +1,6 @@
-# TypeScript Assignment - Level 2, Assignment 1
+# TypeScript Assignment - Next Level 2, Assignment 1
 
 This repository contains the solutions for the TypeScript beginner exercises and technical blog posts as part of the Level 2 assignment.
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Solutions](#solutions)
-- [Blog Posts](#blog-posts)
-- [How to Run](#how-to-run)
 
 ## Project Overview
 
@@ -52,9 +45,3 @@ To run the TypeScript code locally, follow these steps:
     ```bash
     node solutions.js
     ```
-
-Alternatively, you can use `ts-node` to run the file directly:
-
-```bash
-npx ts-node solutions.ts
-```
